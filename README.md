@@ -113,7 +113,7 @@ Some agents and MCP servers (like OpenClaw) are built with Python and use `uvx` 
 
 ## 📥 Installation
 
-1. Go to the [Releases](https://github.com/nguyenngoctu/agen/releases) page.
+1. Go to the [Releases](https://github.com/axitdn/agen-app/releases) page.
 2. Download the installer for your operating system (macOS, Windows, or Linux).
 3. Install and run Ågen!
 
