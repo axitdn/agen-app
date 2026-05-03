@@ -123,11 +123,7 @@ Some agents and MCP servers (like OpenClaw) are built with Python and use `uvx` 
 
 ## 🛠️ Configuration
 
-Ågen stores its configuration files in the following standard application directories depending on your OS:
-
-- **macOS**: `~/Library/Application Support/agen/`
-- **Windows**: `%APPDATA%\agen\`
-- **Linux**: `~/.config/agen/`
+Ågen stores its configuration files in the `~/.agen/` directory across all operating systems.
 
 ### `agents.json`
 Stores your connected ACP agents, environment variables, and specific configurations. You can edit this file directly or use the Settings interface in the application to add/update agents.
